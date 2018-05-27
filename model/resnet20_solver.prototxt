@@ -1,0 +1,22 @@
+net: "D:/Research/CNN-based-Indoor-Localization/model/resnet20.prototxt"
+test_iter: 7
+test_interval: 125
+test_initialization: false
+
+base_lr: 0.01
+lr_policy: "multistep"
+gamma: 0.2
+
+stepvalue: 1600
+stepvalue: 2400
+stepvalue: 2800
+max_iter: 3000
+#iter_size: 1
+
+display: 100
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 500
+snapshot_prefix: "D:/Research/CNN-based-Indoor-Localization/snapshot/resnet20"
+
+solver_mode: GPU

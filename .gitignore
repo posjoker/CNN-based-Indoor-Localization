@@ -1,0 +1,63 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Others
+*.tlog
+*.log
+*.ilk
+*.pdb
+*.cache
+*.sdf
+*.opensdf
+*.deps
+*.idb
+*.ico
+*.rc
+*.asm
+*.ipch
+*.metagen
+*.res
+*.txt
+*.exp
+*.ipdb
+*.iobj
+*.force
+*.manifest
+*.model
+*.caffemodel
+*.db
+*.opendb
+*.suo
+*_data.hpp
+*.pb.cc
+*.pb.h
+*.asv
+*_halfdata.hpp
+*_data_full.hpp
